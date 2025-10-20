@@ -1,6 +1,6 @@
 {
   "name": "501-github-class",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Proyecto de desarrollo en Node.js",
   "main": "index.js",
   "scripts": {
